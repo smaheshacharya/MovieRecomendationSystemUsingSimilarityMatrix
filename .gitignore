@@ -1,0 +1,6 @@
+
+# Distribution / packaging
+.Python
+ProjectCode/
+# Ignore pickle files
+*.pkl
